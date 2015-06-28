@@ -37,5 +37,7 @@
         <file>pics/lulumi.jpg</file>
         <file>pics/vhs.jpg</file>
         <file>pics/white.jpg</file>
+        <file>win.png</file>
+        <file>lose.PNG</file>
     </qresource>
 </RCC>

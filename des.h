@@ -5,6 +5,7 @@
 class des{
 public:
     des();
+    virtual void COUNT(blank*arr[10][10])=0;
     virtual~des();
 };
 

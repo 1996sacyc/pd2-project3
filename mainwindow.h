@@ -3,6 +3,8 @@
 #include <QMainWindow>
 #include "blank.h"
 #include <ctime>
+#include <Qstring>
+#include <QWidget>
 
 namespace Ui {
 class MainWindow;
@@ -16,6 +18,7 @@ public:
     explicit MainWindow(QWidget *parent = 0);
     blank * arr[10][10];
     QTimer *t;
+    QString str;
     int recordR;
     int recordC;
     int Countstar;

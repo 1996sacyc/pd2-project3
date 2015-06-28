@@ -15,11 +15,13 @@ TEMPLATE = app
 SOURCES += main.cpp\
         mainwindow.cpp \
     blank.cpp \
-    des.cpp
+    des.cpp \
+    lisa.cpp
 
 HEADERS  += mainwindow.h \
     blank.h \
-    des.h
+    des.h \
+    lisa.h
 
 FORMS    += mainwindow.ui
 
